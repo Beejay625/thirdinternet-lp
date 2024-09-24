@@ -7,7 +7,7 @@ export default function Nav({}: NavProps) {
   return (
     <nav className="container flex items-center justify-between pb-[30px] pt-[57px] font-spaceGrotesk max-sm:py-[16px]">
       <Link
-        href=""
+        href="https://www.thirdinternet.xyz/base-test"
         className="flex items-center text-[16px] font-medium lowercase leading-[120%] tracking-[-0.04em] text-black"
       >
         Visit e-library
